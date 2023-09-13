@@ -1,0 +1,3 @@
+Aplicação Back-End CRUD com TypeScript, JWT, MySQL, Express e Sequelize
+Este projeto é uma aplicação back-end que implementa operações CRUD (Create, Read, Update, Delete) para criar e gerenciar usuários e planos. A cada criação de usuário, um token Bearer JWT é gerado automaticamente. Ele utiliza as seguintes tecnologias: TypeScript, JWT (JSON Web Tokens), MySQL, Express e Sequelize.
+Feito por Mateuso Costa.
